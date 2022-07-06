@@ -1,0 +1,22 @@
+#demo-simple-select-label{
+    color: rgb(245, 234, 240);
+}
+
+#name-console{
+    background-color: rgb(41, 7, 102);
+}
+
+#item-name-console {
+    color: aliceblue;
+}
+
+#selectConsole {
+    display: flex;        
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(90, 52, 52, 0.4);
+}
+
+#selectConsole:hover {
+    background-color: rgba(72, 19, 102, 0.452);
+}

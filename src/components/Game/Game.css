@@ -1,0 +1,15 @@
+.game-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-games {
+    height: 4vh;
+    padding: 0px;
+    margin: 0;
+}
+
+.list-name span {
+    font-family: 'Press Start 2P', cursive !important;
+}
