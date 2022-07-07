@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VideoGame-API/static/css/main.5dcef6cc.css",
+    "main.js": "/VideoGame-API/static/js/main.165efd09.js",
+    "index.html": "/VideoGame-API/index.html",
+    "main.5dcef6cc.css.map": "/VideoGame-API/static/css/main.5dcef6cc.css.map",
+    "main.165efd09.js.map": "/VideoGame-API/static/js/main.165efd09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dcef6cc.css",
+    "static/js/main.165efd09.js"
+  ]
+}
