@@ -3,7 +3,7 @@ import Axios from "axios";
 import './App.css';
 import NavBar from "./components/NavBar/Navbar";
 import { BrowserRouter as Router } from "react-router-dom";
-import Console from "./components/Console/Console";
+import SelectLabel from "./components/SelectLabel/SelectLabel";
 
 function App() {
 
@@ -25,7 +25,7 @@ function App() {
     <Router>
       <div className="container-page">
         <NavBar />
-        <Console list={list}/>
+        <SelectLabel list={list}/>
       </div>
     </Router>
   );

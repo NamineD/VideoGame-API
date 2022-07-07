@@ -8,10 +8,10 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemIcon from '@material-ui/core/ListItemIcon';
 import Gamepad from '@material-ui/icons/Gamepad';
 import ListItemText from '@material-ui/core/ListItemText';
-import './Game.css'
+import './CardGame.css'
 
 
-const Game = ({gameInfo}) => {
+const CardGame = ({gameInfo}) => {
 
     console.log(gameInfo);
 
@@ -51,4 +51,4 @@ const Game = ({gameInfo}) => {
   )
 }
 
-export default Game
+export default CardGame
