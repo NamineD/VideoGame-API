@@ -13,7 +13,7 @@ const theme = createTheme({
         main: '#000000',
       },
       secondary: {
-        main: '#F9DFDC'
+        main: '#A3A3A3'
       }
     }
 });
@@ -24,7 +24,7 @@ const Navbar = () => {
     <nav className='navBar'>
         <Box sx={{ flexGrow: 1 }}>
             <ThemeProvider theme={theme}>
-                <AppBar position="static" color="primary">
+                <AppBar position="static" color="secondary">
                     <Toolbar>
                     <Typography
                         variant="h6"

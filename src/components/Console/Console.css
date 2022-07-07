@@ -14,9 +14,9 @@
     display: flex;        
     justify-content: center;
     text-align: center;
-    background-color: rgba(90, 52, 52, 0.4);
+    background-color: rgba(192, 192, 192, 0.164);
 }
 
 #selectConsole:hover {
-    background-color: rgba(72, 19, 102, 0.452);
+    background-color: rgba(102, 70, 121, 0.452);
 }
