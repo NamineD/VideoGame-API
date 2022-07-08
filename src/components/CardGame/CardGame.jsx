@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
@@ -19,6 +19,7 @@ const CardGame = ({gameInfo}) => {
     <div className='game-info'>
         <Card sx={{ maxWidth: 1045, m: 5 }}>
             <CardMedia
+                className='img-card'
                 component="img"
                 height="440"
                 image={gameInfo.image_background}

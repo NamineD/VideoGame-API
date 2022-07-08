@@ -13,3 +13,23 @@
 .list-name span {
     font-family: 'Press Start 2P', cursive !important;
 }
+
+@media screen and (max-width: 480px) {
+    .list-name span {
+        font-size: 15px;
+    }
+
+    .img-card {
+        height: 200px;
+    }
+} 
+
+@media screen and (max-width: 380px) {
+    .list-name span {
+        font-size: 12px;
+    }
+
+    .img-card {
+        height: 200px;
+    }
+} 

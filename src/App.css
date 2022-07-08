@@ -6,7 +6,8 @@
 }
 
 body {
-    /* background-color: #F9DFDC; */
+    background-color: #03020e;
+    height: 100vh;
     background-image: url("https://i.pinimg.com/originals/0c/94/1d/0c941d8e13f5c6560d94b9d9a1b24094.jpg");
     background-repeat: no-repeat;
     background-size: cover;

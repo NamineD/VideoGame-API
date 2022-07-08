@@ -30,7 +30,8 @@ const Navbar = () => {
                         variant="h6"
                         noWrap
                         component="div"
-                        sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
+                        className='title'
+                        sx={{ flexGrow: 1, display: { sm: 'block' } }}
                     >
                         <Link to='/' className='navbar-logo'>
                             GAMES FOR GAMERS

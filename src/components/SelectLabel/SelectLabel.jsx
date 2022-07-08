@@ -9,7 +9,6 @@ import './SelectLabel.css'
 
 const SelectLabel = ({list}) => {
 
-let games = [];
 
 const [ consola, setConsola] = useState('');
 

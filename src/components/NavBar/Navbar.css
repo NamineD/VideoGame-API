@@ -1,3 +1,15 @@
 Link {
     background-color: #ffffff !important;
 }
+
+@media screen and (max-width: 620px) {
+    .title {
+        font-size: 18px !important;
+    }
+} 
+
+@media screen and (max-width: 600px) {
+    .title {
+        font-size: 15px !important;
+    }
+} 
