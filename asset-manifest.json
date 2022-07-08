@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VideoGame-API/static/css/main.5dcef6cc.css",
-    "main.js": "/VideoGame-API/static/js/main.165efd09.js",
+    "main.css": "/VideoGame-API/static/css/main.0ac7b1a9.css",
+    "main.js": "/VideoGame-API/static/js/main.3e9a51ed.js",
     "index.html": "/VideoGame-API/index.html",
-    "main.5dcef6cc.css.map": "/VideoGame-API/static/css/main.5dcef6cc.css.map",
-    "main.165efd09.js.map": "/VideoGame-API/static/js/main.165efd09.js.map"
+    "main.0ac7b1a9.css.map": "/VideoGame-API/static/css/main.0ac7b1a9.css.map",
+    "main.3e9a51ed.js.map": "/VideoGame-API/static/js/main.3e9a51ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dcef6cc.css",
-    "static/js/main.165efd09.js"
+    "static/css/main.0ac7b1a9.css",
+    "static/js/main.3e9a51ed.js"
   ]
 }
