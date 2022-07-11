@@ -5,13 +5,45 @@
 }
 
 .list-games {
-    height: 4vh;
+    height: 3vh;
     padding: 0px;
     margin: 0;
 }
 
 .list-name span {
     font-family: 'Press Start 2P', cursive !important;
+}
+
+@media screen and (max-width: 1850px) {
+    .list-games {
+        height: 2vh;
+    }
+
+    .img-card {
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .list-games {
+        height: 2vh;
+    }
+
+    .img-card {
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 870px) {
+    .list-games {
+        height: 2vh;
+        padding: 0px;
+        margin: 0;
+    }
+
+    .img-card {
+        height: 250px;
+    }
 }
 
 @media screen and (max-width: 480px) {

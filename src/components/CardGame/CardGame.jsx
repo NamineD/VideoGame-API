@@ -17,11 +17,11 @@ const CardGame = ({gameInfo}) => {
 
   return (
     <div className='game-info'>
-        <Card sx={{ maxWidth: 1045, m: 5 }}>
+        <Card sx={{ maxWidth: 855, m: 3 }}>
             <CardMedia
                 className='img-card'
                 component="img"
-                height="440"
+                height="340"
                 image={gameInfo.image_background}
                 alt={gameInfo.slug}
             />
