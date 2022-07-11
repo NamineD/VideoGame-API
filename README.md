@@ -25,7 +25,7 @@ Herramientas que utilice:
 - Axios [Axios](https://www.npmjs.com/package/axios)
 - Material UI [MUI](https://mui.com/)
 
-<img src="./public/readmeImg.png" alt="VideoGame"/>
+<img src="./public/ImgReadME.png" alt="VideoGame"/>
 
 ## Licencia 📄
 
